@@ -11,21 +11,21 @@
 
 ### Day 7: 9 Jan, 2020
 
-**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Applied Accessibility + Responsive Web Design Principle". **100%**
+**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Applied Accessibility + Responsive Web Design Principle". **100%** 🥳
 
 **Thoughts:** Took a day off due to *sickness*. Missed another day for *BIRTHDAY!*
 
 
 ### Day 6: 6 Jan, 2020
 
-**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Applied Visual Design". **100%**
+**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Applied Visual Design". **100%** 🥳
 
 **Thoughts:** Took two days off due to *sickness* and *BIRTHDAY!*
 
 
 ### Day 5: 5 Jan, 2020
 
-**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Basic CSS". **100%**
+**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Basic CSS". **100%** 🥳
 
 
 ### Day 4: 4 Jan, 2020
@@ -35,7 +35,7 @@
 
 ### Day 3: 3 Jan, 2020
 
-**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Basic HTML and HTML5". **100%**
+**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: Basic HTML and HTML5". **100%** 🥳
 
 
 ### Day 2: 2 Jan, 2020
