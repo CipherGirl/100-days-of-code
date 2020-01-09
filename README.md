@@ -1,4 +1,7 @@
-# I've joined the #100DaysOfCode Challenge for Web Dev
+# I've joined the #100DaysOfCode Challenge for Web Dev 
+(Starting Date 1st Jan, 2020, Aprrox End Date (9th Apr - 1st May))
+
+I have forked this template from "https://github.com/kallaway/100-days-of-code" and edited accordingly as 100 days journal - to keep myself accountable. I have committed to this challenge to learn "Web Development". I'll be learning from 2 key resources. First one is the "www.freecodecamp.org" website which has free full stack web dev course and the second one is Colt Steele's udemy course for full stack web dev.
 
 ## Contents
 
