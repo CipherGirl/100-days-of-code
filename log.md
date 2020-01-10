@@ -1,12 +1,18 @@
 # 100 Days Of Code for Web Develeopment - Log
 
-
-
+<!--
 ### Day 8: 9 Jan, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: CSS Flexbox +  CSS Grid"
 
-**Thoughts:**
+**Thoughts:** Things are tough to memorize, as huge collection of contents. I just focused if I can understand the concept.
+-->
+
+### Day 8: 10 Jan, 2020
+
+**Today's Progress**: Completed Free Code Camp's "Responsive Web Design: CSS Flexbox +  CSS Grid"
+
+**Thoughts:** Things are tough to memorize, as huge collection of contents. I just focused if I can understand the concept. 
 
 
 ### Day 7: 9 Jan, 2020
