@@ -15,7 +15,7 @@
 
 **Link to work:** [Tribute Page - Ada Lovelace](https://codepen.io/CipherGirl/pen/RwNyKyq)
 
-**Thoughts:** Things are tough to memorize, as huge collection of contents. I just focused if I can understand the concept.
+**Thoughts:** Didn't spend time to decorate the page using advanced css. Completing the course faster is main concern.
 
 
 ### Day 8: 10 Jan, 2020
