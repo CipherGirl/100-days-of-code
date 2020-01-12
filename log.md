@@ -8,6 +8,14 @@
 **Thoughts:** Things are tough to memorize, as huge collection of contents. I just focused if I can understand the concept.
 -->
 
+
+### Day 9: 11 Jan, 2020
+
+**Today's Progress**: Completed Free Code Camp's "Responsive Web Design Project: Build a Tribute Page". 
+**Link to work:** [Tribute Page - Ada Lovelace](https://codepen.io/CipherGirl/pen/RwNyKyq)
+**Thoughts:** Things are tough to memorize, as huge collection of contents. I just focused if I can understand the concept.
+
+
 ### Day 8: 10 Jan, 2020
 
 **Today's Progress**: Completed Free Code Camp's "Responsive Web Design: CSS Flexbox +  CSS Grid"
